@@ -1,2 +1,6 @@
 ignore2
+<<<<<<< HEAD
 added by np for conflict
+=======
+added by git for conlfict
+>>>>>>> 4924efe5afefb8129031307eb061137227cf1a3a
