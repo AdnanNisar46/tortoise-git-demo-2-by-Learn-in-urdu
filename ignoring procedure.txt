@@ -1,2 +1,2 @@
 1- we have to add the files we want to ignore
-2- then we have add link of them in git ignore folder
+2- then we have add link of them in git ignore folder.
